@@ -1,10 +1,10 @@
 # Node 18 + Typescript Scaffold
 
-### Basic template to generate Node18+Typescript+Nodemon apps quickly.
+#### Basic template to generate Node18 with Typescript app scaffolding quickly. Includes Live reload server and Jest testing built-in configuration!
 
 ## Features
 
-* For Node 18 ES Module applications (fully support Typescript-ES2020 `import/export` opearands).
+* Support for Node v18 ESM (EcmaScript Modules) applications: fully integration with Typescript and ES2020 flavour.
 * Development live-reload server powered by [nodemon](https://www.npmjs.com/package/nodemon) and [ts-node](https://www.npmjs.com/package/ts-node).
 * Unit testing pre-configured powered by [Jest](https://www.npmjs.com/package/jest)
 
